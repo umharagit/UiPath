@@ -99,7 +99,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Last Name'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="416,279" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="3714bec8-fee2-4556-a998-4fe0861c7736" Text="lkkk" Version="V4">
+            <uix:NTypeInto ActivateBefore="True" ClickBeforeMode="Single" DisplayName="Type Into 'Last Name'" EmptyFieldMode="SingleLine" sap:VirtualizedContainerService.HintSize="416,279" sap2010:WorkflowViewState.IdRef="NTypeInto_2" ScopeIdentifier="3714bec8-fee2-4556-a998-4fe0861c7736" Text="llkkk" Version="V4">
               <uix:NTypeInto.Target>
                 <uix:TargetAnchorable BrowserURL="rpachallenge.com" CVScreenId="a6b4ec1a-afa8-4f9a-bf0e-e35f3e56380e" ContentHash="5G52ZIxf9EeF_Ba3-U94rA" CvElementArea="454, 416, 266, 39" CvType="InputBox" DesignTimeRectangle="457, 408, 259, 46" DesignTimeScaleFactor="1" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl name='4WMJc' tag='INPUT' type='' class='ng-untouched ng-pristine ng-invalid' aaname='' /&gt;" Guid="97253c6b-7ae5-4664-b37d-dcdb2c7c7c78" InformativeScreenshot="94ca9a5198fa501be62df7fe19fb3cec.png" IsResponsive="True" Reference="ujQp8KXefUa1Ta82xh2UCQ/mIjBossa0kCZeWhiztp-9g" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="FuzzySelector, CV" Version="V4" Visibility="Interactive">
                   <uix:TargetAnchorable.Anchors>
